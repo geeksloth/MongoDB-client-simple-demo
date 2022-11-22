@@ -14,7 +14,7 @@ git clone https://github.com/geeksloth/MongoDB-client-simple-demo.git && cd Mong
 ```bash
 python3 -m pip install --upgrade pip && python3 -m pip install pymongo
 ```
-4. [Recommend] Modify ```server```, ```username```, and ```password``` to your *MongoDB* server. Or you cal leave it default if you use [this guide](https://github.com/geeksloth/mongodb-simple-docker-compose).
+4. [Recommend] Modify ```server```, ```username```, and ```password``` to your *MongoDB* server. Or you cal leave it default if you use [the guide](https://github.com/geeksloth/mongodb-simple-docker-compose).
 5. Run the demo:
 ```bash
 python3 demo.py
